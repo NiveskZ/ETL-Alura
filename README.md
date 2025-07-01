@@ -16,7 +16,7 @@ Esta formação faz parte do programa ONE, parceria de Alura + Oracle
 ## Progresso Cursos
 
 ### Pacote de Dados
-1. [ ] NumPy: análise numérica eficiente com Python;
+1. [x] NumPy: análise numérica eficiente com Python;
 ### Pandas
 2. [ ] Pandas: conhecendo a biblioteca;
 3. [ ] Pandas I/O: trabalhando com diferentes formatos de arquivos;
