@@ -18,9 +18,9 @@ Esta formação faz parte do programa ONE, parceria de Alura + Oracle
 ### Pacote de Dados
 1. [x] NumPy: análise numérica eficiente com Python;
 ### Pandas
-2. [ ] Pandas: conhecendo a biblioteca;
-3. [ ] Pandas I/O: trabalhando com diferentes formatos de arquivos;
-4. [ ] Pandas: transformação e manipulação de dados;
+2. [x] Pandas: conhecendo a biblioteca;
+3. [x] Pandas I/O: trabalhando com diferentes formatos de arquivos;
+4. [x] Pandas: transformação e manipulação de dados;
 ### Data Visualization
 5. [ ] Data Visualization: criando gráficos com bibliotecas Python;
 ### Inteligencia artificial aplicada a ciência de dados
