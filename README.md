@@ -1,5 +1,5 @@
 # Formação Aprendendo a fazer ETL G8 - ONE
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/status-complete-green)
 
 Criei esse repositório com objetivo de atualizar meu progresso em relação as aulas da formação de ETL do Programa ONE.
 
@@ -26,4 +26,4 @@ Esta formação faz parte do programa ONE, parceria de Alura + Oracle
 ### Data Visualization
 5. [x] Data Visualization: criando gráficos com bibliotecas Python;
 ### Inteligencia artificial aplicada a ciência de dados
-6. [ ] IA aplicada a Data Science: utilizando IA na construção de visualização de dados
+6. [x] IA aplicada a Data Science: utilizando IA na construção de visualização de dados
